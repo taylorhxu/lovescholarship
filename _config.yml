@@ -1,7 +1,7 @@
 root: /
 permalink: /:year-:month/:title/
 markdown: rdiscount
-pygments: false
+highlighter: pygments
 paginate: 5
 
 title: 爱心论文计划
